@@ -1,7 +1,5 @@
-flask
+Flask
 line-bot-sdk
 opencv-python
-pyzbar
 numpy
 requests
-gunicorn
